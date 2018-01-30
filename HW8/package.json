@@ -1,0 +1,17 @@
+{
+  "name": "my-app",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "ejs": "latest",
+    "aws-sdk": "latest",
+    "express": "latest",
+    "body-parser": "latest",
+    "request": "latest",
+    "xml2js": "latest",
+    "https": "latest"
+  },
+  "scripts": {
+    "start": "node main.js"
+  }
+}
